@@ -1,6 +1,6 @@
 <!-- ### Hi there 👋 -->
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=emor1)](https://github.com/anuraghazra/github-readme-statsa＆count_private = true＆show_icons = true＆theme = radical)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=emor1＆count_private = true＆show_icons = true＆theme = radical)](https://github.com/anuraghazra/github-readme-statsa)
 
 <!-- ！[AnuragのGitHub統計]（https://github-readme-stats.vercel.app/api？emor1 = anuraghazra＆hide = contribs、prs）
 ！[AnuragのGitHub統計]（https://github-readme-stats.vercel.app/api？emor1 = anuraghazra＆count_private = true）
