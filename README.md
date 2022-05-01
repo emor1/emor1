@@ -7,6 +7,9 @@
 ！[AnuragのGitHub統計]（https://github-readme-stats.vercel.app/api？emor1 = anuraghazra＆show_icons = true）
 ！[AnuragのGitHub統計]（https://github-readme-stats.vercel.app/api？emor1 = anuraghazra＆show_icons = true＆theme = radical）
  -->
+ 
+ [！[AnuragのGitHub統計]（https://github-readme-stats.vercel.app/api？username = emor1＆count_private = true＆show_icons = true＆theme = radical)）]（https://github.com/anuraghazra/github-readme-stats）
+
 <!--
 **emor1/emor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
